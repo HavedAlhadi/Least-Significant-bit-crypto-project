@@ -19,5 +19,8 @@ The project aims to encrypt the message between the client and the server by hid
 6. فك التشفير لاستعادة الرسالة الأصلية.
 7. عرض الرسالة المفكوكة للخادم للقراءة أو لاتخاذ الإجراء المناسب.
 
-   ## Program example:
+   ## Program example 1:
    ![image1](https://github.com/HavedAlhadi/chat-clinte-and-server-by-C-sharp/assets/130609547/17726bf0-d249-4a0d-89fe-8bdc6f2bb483)
+
+   ## Program example 2:
+   ![image2](https://github.com/HavedAlhadi/chat-clinte-and-server-by-C-sharp/assets/130609547/001eb99c-b4f9-47fa-abf0-952b36b285e2)
