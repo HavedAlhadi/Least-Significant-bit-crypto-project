@@ -1,0 +1,36 @@
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\bin\Debug\SPR-Server.exe.config
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\bin\Debug\SPR-Server.exe
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\bin\Debug\SPR-Server.pdb
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\bin\Debug\MyNetwork.dll
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\bin\Debug\MyNetwork.pdb
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR-Server.csprojAssemblyReference.cache
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR_Server.FormServer.resources
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR_Server.Properties.Resources.resources
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR-Server.csproj.GenerateResource.cache
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR-Server.csproj.CopyComplete
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR-Server.exe
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\SPR-Server\obj\Debug\SPR-Server.pdb
+D:\مشروع التشفير\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.exe.config
+D:\مشروع التشفير\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.exe
+D:\مشروع التشفير\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.pdb
+D:\مشروع التشفير\OPject Encoding\SPR-Server\bin\Debug\MyNetwork.dll
+D:\مشروع التشفير\OPject Encoding\SPR-Server\bin\Debug\MyNetwork.pdb
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csprojAssemblyReference.cache
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR_Server.FormServer.resources
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR_Server.Properties.Resources.resources
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csproj.GenerateResource.cache
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csproj.CopyComplete
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.exe
+D:\مشروع التشفير\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.pdb
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.exe.config
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.exe
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\bin\Debug\SPR-Server.pdb
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\bin\Debug\MyNetwork.dll
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\bin\Debug\MyNetwork.pdb
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csprojAssemblyReference.cache
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR_Server.FormServer.resources
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR_Server.Properties.Resources.resources
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csproj.GenerateResource.cache
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.csproj.CopyComplete
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.exe
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\SPR-Server\obj\Debug\SPR-Server.pdb

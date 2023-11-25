@@ -1,0 +1,15 @@
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\MyNetwork\bin\Debug\MyNetwork.dll
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\MyNetwork\bin\Debug\MyNetwork.pdb
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\MyNetwork\obj\Debug\MyNetwork.csprojAssemblyReference.cache
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\MyNetwork\obj\Debug\MyNetwork.dll
+C:\Users\USERWD\Downloads\CSharp_Windows_System_Programming-master\12-Video-Streaming\MyNetwork\obj\Debug\MyNetwork.pdb
+D:\مشروع التشفير\OPject Encoding\MyNetwork\bin\Debug\MyNetwork.dll
+D:\مشروع التشفير\OPject Encoding\MyNetwork\bin\Debug\MyNetwork.pdb
+D:\مشروع التشفير\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.csprojAssemblyReference.cache
+D:\مشروع التشفير\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.dll
+D:\مشروع التشفير\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.pdb
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\MyNetwork\bin\Debug\MyNetwork.dll
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\MyNetwork\bin\Debug\MyNetwork.pdb
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.csprojAssemblyReference.cache
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.dll
+D:\مشروع التشفير\مجموعة عبد الله الهادي + يوسف حاجب +محمد أمين\OPject Encoding\MyNetwork\obj\Debug\MyNetwork.pdb
